@@ -1,5 +1,7 @@
 wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-9.4.0.54424.zip
 
+install java - > sudo apt-get install openjdk-8-jre
+
 adduser sonarqube    #pass: sonar@123
 wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-9.4.0.54424.zip
 sudo apt install unzip
